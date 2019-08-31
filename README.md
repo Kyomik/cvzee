@@ -1,2 +1,5 @@
-#https://twitter.com/ZebukaF/status/1166247708530794497
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Big thanks to <a href="https://twitter.com/flutterwave?ref_src=twsrc%5Etfw">@flutterwave</a> <a href="https://twitter.com/startdotng?ref_src=twsrc%5Etfw">@startdotng</a> <a href="https://twitter.com/hnginternship?ref_src=twsrc%5Etfw">@hnginternship</a><br>adding immense value through IT, increasing elite masses and empowering youths.</p>&mdash; zebuka.fm7 (@ZebukaF) <a href="https://twitter.com/ZebukaF/status/1166247708530794497?ref_src=twsrc%5Etfw">August 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+CV html and a link to CSS on the CV branch
+
+
+/*link to my lucid blog post on CSS modifying Html */
+https://lucid.blog/ezechibueze07/post/the-foundation-blocks-and-interior-designs-htmlcss-5b9
